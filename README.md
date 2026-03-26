@@ -15,8 +15,8 @@
 ---
 
 ## 🚀 Projects
-- 🔗 [Project 1](https://github.com/yourusername/project1) – short description  
-- 🔗 [Project 2](https://github.com/yourusername/project2) – short description  
+[Project 1](https://github.com/Aditi-018/Employee-Payroll-System) An Employee Payroll System is a software application designed to automate and manage the process of calculating employee salaries, deductions, bonuses, and tax payments. It helps organizations maintain accurate payroll records, generate payslips, and ensure timely salary distribution. The system typically includes features like employee data management, attendance tracking, salary computation, tax handling, and reporting, improving efficiency and reducing manual errors in payroll processing.
+
 
 ---
 
@@ -33,8 +33,9 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: your@email.com  
+- LinkedIn: www.linkedin.com/in/aditi-sahu0
+
+- Email: aditisahu.in@gmail.com  
 
 ---
 
