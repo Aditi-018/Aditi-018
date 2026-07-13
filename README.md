@@ -24,10 +24,6 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
-
----
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/aditi-sahu0
