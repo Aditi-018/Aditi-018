@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditi Sahu
+#Helloi, I'm Aditi Sahu
 
 <div align="center">
 
