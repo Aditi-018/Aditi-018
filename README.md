@@ -1,74 +1,112 @@
-# Hello, I'm Aditi Sahu
+# 👋 Hi, I'm Aditi Sahu
 
-💻 Aspiring Software Developer  
-🚀 Currently building web applications and learning the MERN Stack  
-🎯 Passionate about problem-solving, development, and creating impactful projects  
+<div align="center">
+
+### 💻 Aspiring Software Developer | MERN Stack Developer
+
+Building projects, solving problems, and continuously improving my development skills 🚀
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+- 🎓 Computer Science student passionate about software development
+- 🚀 Currently learning and building applications using the MERN Stack
+- 🧩 Practicing Data Structures & Algorithms to improve problem-solving skills
+- 💡 Interested in creating efficient, scalable, and user-friendly applications
+- 🎯 Goal: Become a skilled Software Engineer
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
-### Backend & Database
+### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+### Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🏢 Employee Payroll System
+## 🏢 Employee Payroll System
 
-A desktop-based Employee Payroll Management System designed to automate employee salary management and reduce manual payroll calculations. The system helps manage employee records, calculate salaries, and maintain payroll-related information efficiently.
+A payroll management application designed to simplify employee data handling and salary management. The system helps automate payroll-related operations and provides an organized way to manage employee records.
 
-**Key Features:**
+### Features:
 - Employee information management
-- Automated salary calculation
-- Payroll record management
-- Easy access to employee details
-- Organized payroll processing
+- Salary calculation
+- Payroll record handling
+- Organized employee data management
 
-**Technologies Used:**
-- Add your actual technologies here (Java / Python / MySQL / HTML-CSS etc.)
-
-🔗 GitHub Repository:
-[Employee Payroll System](https://github.com/Aditi-018/Employee-Payroll--System)
+### Repository:
+🔗 [Employee Payroll System](https://github.com/Aditi-018/Employee-Payroll--System)
 
 ---
 
-## 🧩 Problem Solving
+# 🧩 Problem Solving
 
-- Practicing Data Structures & Algorithms
-- Solving coding problems on LeetCode
-- Improving problem-solving and logical thinking
-
----
-
-## 📈 Currently Working On
-
-- Building full-stack applications using MERN Stack
-- Improving Data Structures & Algorithms
-- Learning scalable software development practices
+- 💻 Solving Data Structures & Algorithms problems
+- 🧠 Improving problem-solving skills through competitive programming
+- 📚 Practicing Linked List, Trees, Arrays, Hashing, and Recursion problems
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- LinkedIn: [Aditi Sahu](https://www.linkedin.com/in/aditi-sahu0)
-- Email: aditisahu.in@gmail.com
+<div align="center">
+
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditi-018&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-018&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+# 🔥 GitHub Streak
 
-I enjoy building projects, exploring new technologies, and continuously improving my development skills 🚀
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditi-018&theme=tokyonight)
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn:
+[linkedin.com/in/aditi-sahu0](https://www.linkedin.com/in/aditi-sahu0)
+
+📧 Email:
+aditisahu.in@gmail.com
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building projects, exploring new technologies, and learning something new every day 🚀
