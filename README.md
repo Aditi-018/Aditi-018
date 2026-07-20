@@ -1,10 +1,10 @@
-#  Hello, I'm Aditi Sahu
+# 👋 Hello, I'm Aditi Sahu
 
 <div align="center">
 
-### 💻 Aspiring Software Developer | MERN Stack Developer
+## 💻 Aspiring Software Developer | MERN Stack Developer
 
-Building projects, solving problems, and continuously improving my development skills 🚀
+Building real-world applications, solving problems, and continuously improving my development skills 🚀
 
 </div>
 
@@ -12,38 +12,40 @@ Building projects, solving problems, and continuously improving my development s
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student passionate about software development
-- 🚀 Currently learning and building applications using the MERN Stack
-- 🧩 Practicing Data Structures & Algorithms to improve problem-solving skills
-- 💡 Interested in creating efficient, scalable, and user-friendly applications
+- 🎓 Computer Science student passionate about Software Development
+- 🚀 Currently learning and building full-stack applications using the MERN Stack
+- 🧩 Practicing Data Structures & Algorithms to strengthen problem-solving skills
+- 💡 Interested in writing clean code and developing scalable solutions
+- 🌱 Always exploring new technologies and improving my development skills
 - 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### Frontend Development
+### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![React.js](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react)
 
-### Backend Development
+### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 
-### Database
+### 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-### Tools
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
@@ -54,28 +56,39 @@ Building projects, solving problems, and continuously improving my development s
 
 ## 🏢 Employee Payroll System
 
-A payroll management application designed to simplify employee data handling and salary management. The system helps automate payroll-related operations and provides an organized way to manage employee records.
+A payroll management application developed to automate employee record management and simplify salary processing. The system helps maintain employee details and manage payroll operations efficiently.
 
-### Features:
-- Employee information management
-- Salary calculation
-- Payroll record handling
-- Organized employee data management
+### ✨ Key Features:
+- 👤 Employee information management
+- 💰 Salary calculation and payroll handling
+- 📋 Organized employee records
+- ⚡ Reduces manual payroll management efforts
 
-### Repository:
-🔗 [Employee Payroll System](https://github.com/Aditi-018/Employee-Payroll--System)
+### 🛠️ Technologies Used:
+(Add your actual technologies here)
 
----
-
-# 🧩 Problem Solving
-
-- 💻 Solving Data Structures & Algorithms problems
-- 🧠 Improving problem-solving skills through competitive programming
-- 📚 Practicing Linked List, Trees, Arrays, Hashing, and Recursion problems
+### 🔗 Repository:
+[Employee Payroll System](https://github.com/Aditi-018/Employee-Payroll--System)
 
 ---
 
-# 📊 GitHub Stats
+# 🧩 Problem Solving & DSA
+
+- 💻 Regularly practicing Data Structures & Algorithms
+- 🧠 Solving problems on LeetCode
+- 📚 Exploring:
+  - Arrays
+  - Linked Lists
+  - Trees
+  - Hashing
+  - Recursion
+  - Searching & Sorting
+
+🔗 LeetCode Profile: Add your profile link
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -87,13 +100,21 @@ A payroll management application designed to simplify employee data handling and
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditi-018&theme=tokyonight)
 
 </div>
+
+---
+
+# 📈 Currently Working On
+
+- 🚀 Building full-stack MERN applications
+- 🧩 Improving DSA and problem-solving skills
+- 🌐 Learning backend development and API integration
 
 ---
 
@@ -109,4 +130,4 @@ aditisahu.in@gmail.com
 
 # ⚡ Fun Fact
 
-I enjoy building projects, exploring new technologies, and learning something new every day 🚀
+I enjoy building projects, exploring new technologies, and turning ideas into working applications 🚀
