@@ -29,15 +29,20 @@
 
 ### 🏢 Employee Payroll System
 
-A software application designed to simplify employee salary management by automating salary calculations, deductions, bonuses, and payroll records.
+A desktop-based Employee Payroll Management System designed to automate employee salary management and reduce manual payroll calculations. The system helps manage employee records, calculate salaries, and maintain payroll-related information efficiently.
 
-**Features:**
-- Employee data management
-- Salary calculation and deductions
+**Key Features:**
+- Employee information management
+- Automated salary calculation
 - Payroll record management
-- Payslip generation
+- Easy access to employee details
+- Organized payroll processing
 
-🔗 Project Link: [Employee Payroll System](https://github.com/Aditi-018/Employee-Payroll-System)
+**Technologies Used:**
+- Add your actual technologies here (Java / Python / MySQL / HTML-CSS etc.)
+
+🔗 GitHub Repository:
+[Employee Payroll System](https://github.com/Aditi-018/Employee-Payroll--System)
 
 ---
 
