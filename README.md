@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditi Sahu
+# Hello, I'm Aditi Sahu
 
 💻 Aspiring Software Developer  
 🚀 Currently building web applications and learning the MERN Stack  
